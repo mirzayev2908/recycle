@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LessonFive</string>
+    <string-array name="Programming_languages">
+       <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift </item>
+        <item>C++</item>
+        <item>Dart</item>
+    </string-array>
+    <string-array name="Description">
+        <item>Bu til ham yaxshiiiiii!!!!</item>
+        <item>Bu til ham yaxshiiiiii!!!!</item>
+        <item>Bu til ham yaxshiiiiii!!!!</item>
+        <item>Bu til ham yaxshiiiiii!!!!</item>
+        <item>Bu til ham yaxshiiiiii!!!!</item>
+    </string-array>
+</resources>
